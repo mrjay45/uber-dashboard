@@ -193,19 +193,16 @@ Add dashboard screenshots to the repository and update the paths below.
 ## 9. Repository Structure
 
 ```text
-Uber-Ride-Analytics/
+Uber Dashboard/
 │
 ├── README.md
-├── Uber-Ride-Analytics.pbix
-├── data/
-│   └── dataset-file
+├── Uber_dashboard.pbix
+├── dataset-file
 │
 └── screenshots/
     ├── overview.png
     └── revenue-analysis.png
 ```
-
-_Update the file and folder names above to match the actual repository contents. Do not upload source data if it is restricted or contains sensitive information._
 
 ## 10. Key Learnings
 
